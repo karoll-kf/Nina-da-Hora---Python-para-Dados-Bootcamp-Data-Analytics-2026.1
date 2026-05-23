@@ -13,10 +13,12 @@ Projeto desenvolvido para prática de manipulação e análise de dados utilizan
 
 ## Estrutura do projeto
 
-desafio_1/
-- analise_sono.ipynb
-- saude_do_sono_estilo_vida.csv
 - README.md
+- DB
+  - saude_do_sono_estilo_vida.csv
+  - saude_do_sono_estilo_vida_tratado.csv
+- notebooks
+  - Colab.py.ipynb
 
 ## Objetivo
 
